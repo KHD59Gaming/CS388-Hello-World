@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="msg">Hello World! My name is Ryan and this bulldog is adorable! Press the button to say hi!</string>
+    <string name="btn_msg">Say HI</string>
+    <string name="img_desc">Picture of bulldog</string>
+</resources>
